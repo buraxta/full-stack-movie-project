@@ -18,7 +18,7 @@ Welcome to the Full Stack Movie Project! This project showcases a full-stack web
 - [React Router Dom](https://reactrouter.com/en/main) - Declarative routing for React
 - [Material-UI](https://material-ui.com/) - React UI component library
 - [Axios](https://axios-http.com/) - Promise-based HTTP client for making API requests
-- [Fortawesome](https://fortawesome.com/) - Icon library for React applications
+- [Fontawesome](https://fortawesome.com/) - Icon library for React applications
 - [Bootstrap](https://getbootstrap.com/) - CSS framework for building responsive websites
 - [react-player](https://www.npmjs.com/package/react-player) - A React component for playing videos
 
